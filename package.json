@@ -24,5 +24,18 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "vite": "^6.0.5"
-  }
+  },
+  "description": "In this task, we will develop a React application that displays a list of items, each with a delete button. Clicking this button will trigger a DELETE request to the server, thus demonstrating CRUD operations in React.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshmi-Shankar/implementing_update_and_delete_an_entity_in_react_app_assignment_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshmi-Shankar/implementing_update_and_delete_an_entity_in_react_app_assignment_2/issues"
+  },
+  "homepage": "https://github.com/Lakshmi-Shankar/implementing_update_and_delete_an_entity_in_react_app_assignment_2#readme"
 }
